@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+<style>
+/* Hello I am a comment. */
+p {}
+#parrot {
+  	text-align: center;
+  	color: cadetblue;
+    font-size: 30px;
+}
+#oyster {
+  	text-align: center;
+    color: cadetblue;
+  font-size: 30px;
+}
+#poodle {
+  	text-align: left;
+    color: cornflowerblue;
+}
+#jungle {
+  	text-align: left;
+  	color: darkcyan;
+}
+#yogurt {
+  	text-align: left;
+  	color: darkslateblue;
+}
+#grass {
+  	text-align: left;
+  	color: mediumslateblue;
+    font-size: 23px
+}
+#title {
+  	text-align: center;
+  	color: blueviolet;
+    font-size: 150px;
+}
+#stressors {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+}
+
+#stressors td, #jokebooks th {
+  border: 5px solid #ddd;
+  padding: 5px;
+}
+
+#stressors tr:nth-child(even){background-color: linen;}
+
+#stressors tr:hover {background-color: lightsteelblue;}
+
+#stressors th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: midnightblue;
+  color: white;
+}
+</style>
+</head>
